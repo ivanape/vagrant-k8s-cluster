@@ -1,10 +1,12 @@
 # Kubernetes cluster
-A vagrant script for setting up a Kubernetes cluster using Kubeadm
+A vagrant script for setting up a Kubernetes cluster using Kubeadm.
+
+Started from: https://github.com/ecomm-integration-ballerina/kubernetes-cluster
 
 ## Pre-requisites
 
- * **[Vagrant 2.1.4+](https://www.vagrantup.com)**
- * **[Virtualbox 5.2.18+](https://www.virtualbox.org)**
+ * **[Vagrant 2.2.5+](https://www.vagrantup.com)**
+ * **[Virtualbox 6.0.10+](https://www.virtualbox.org)**
 
 ## How to Run
 
